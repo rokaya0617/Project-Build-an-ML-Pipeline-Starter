@@ -1,4 +1,4 @@
-name: test_model
+Aname: test_model
 conda_env: conda.yml
 
 entry_points:
