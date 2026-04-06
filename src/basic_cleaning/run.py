@@ -1,4 +1,4 @@
-ASS#!/usr/bin/env python
+#!/usr/bin/env python
 """
 Download from W&B the raw dataset and apply some basic data cleaning, exporting the result to a new artifact
 """
